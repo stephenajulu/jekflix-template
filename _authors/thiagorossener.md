@@ -1,15 +1,15 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+photo: /assets/img/uploads/apple-touch-icon.png
+name: stephenajulu
+display_name: Stephen Ajulu
 position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+bio: 'Front End Web Developer, Graphic Designer and Content Creator.'
+github_username: stephenajulu
+facebook_username: stephenajulu
+twitter_username: stephenajulu
+instagram_username: stephenajulu
+linkedin_username: stephenajulu
+medium_username: stephenajulu
 ---
 
