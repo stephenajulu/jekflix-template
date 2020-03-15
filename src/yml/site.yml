@@ -1,12 +1,27 @@
 name: Ajulu's Blog
 title: Stephen Ajulu's Blog
-description: Technology, Cybersecurity and Self Improvement
+description: 'Technology, Cybersecurity and Self Improvement'
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - technology
+  - cybersecurity
+  - ethical hacking
+  - machine learning
+  - web development
+  - artificial intelligence
+  - smartphones
+  - desktops
+  - laptops
+  - android
+  - operating systems
+  - neural networks
+  - tech news
+  - tech trends
+  - passwords
+  - security
+  - information technology
+  - jamstack
+  - headless cms
+show_hero: true
 email: alunje73@gmail.com
 disqus_username: ajulusthoughts
-show_hero: true
